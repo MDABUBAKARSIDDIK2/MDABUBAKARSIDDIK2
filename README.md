@@ -1,4 +1,4 @@
-✨ Assalamu alaikum. I graduated in Computer Science and Engineering from South East University. I am self-motivated & passionate about SQA and Security analysis. I am currently working at Quality Up Service as a Software Quality Assurance Technician..
+✨ Assalamu alaikum. I'm Md Abu Bakar Siddik.I graduated in Computer Science and Engineering from South East University. I am self-motivated & passionate about SQA and Security analysis. I am currently working at Quality Up Service as a Software Quality Assurance Technician..
 
 Skills & Experience :
 
