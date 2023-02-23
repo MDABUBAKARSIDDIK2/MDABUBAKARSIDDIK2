@@ -2,17 +2,18 @@
 
 Skills & Experience :
 
-💻 Python3, MySQL
+💻 Python3,Js,HTML,CSS ,MySQL
 
 💥 Linux OS / Windows OS / Kali Os
 
-💪 Manual testing 
+💪 Manual testing & Automation testing
 
 💀 Ethical Hacking / Web-pentesting / Basic Networking 
 
 👀 APi testing (post man)
 
-🔥 Jenkins
+🔥 Cypress (Cucumber)
+
 
 
 --->
