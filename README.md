@@ -2,7 +2,7 @@
 
 Skills & Experience :
 
-💻 Python3,Js,HTML,CSS ,MySQL
+💻 Python3,Js,java,HTML,CSS ,MySQL
 
 💥 Linux OS / Windows OS / Kali Os
 
@@ -13,6 +13,7 @@ Skills & Experience :
 👀 APi testing (post man)
 
 🔥 Cypress (Cucumber)
+🔥 Java Selenium (Junit,testNG,Cucumber)
 
 
 
